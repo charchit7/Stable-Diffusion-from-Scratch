@@ -1,2 +1,2 @@
 # Stable-Diffusion-from-Scratch
-Stable Diffusion in Pytorch
+TODO : Create a gradio app to show text-to-image functionality
